@@ -1,0 +1,23 @@
+.height {
+    height: 500px;
+    
+}
+
+.height2 {
+    height: 50px;
+}
+
+.grey {
+    background-color: pink;
+}
+
+.violet {
+    background-color: violet; 
+}
+
+.container {
+ 
+    display:flex;
+ 
+}
+
